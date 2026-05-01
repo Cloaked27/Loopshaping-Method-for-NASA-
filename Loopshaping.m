@@ -38,7 +38,7 @@ bodemag(R_if, {1e2, 1e4});
 bodemag(L, {1e-3, 1e4});
 %%
 nyquist(L)
-% from the nyquist plot we extract the phase margain : 61, more than enough
+% from the nyquist plot we extract the phase margain : 69, more than enough
 %%
 S = feedback(1, P*C1);
 %bode(S);

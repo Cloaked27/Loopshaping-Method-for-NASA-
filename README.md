@@ -79,7 +79,3 @@ $$\gamma_{prob} = \sup_{\omega \in \mathbb{R}} \left( |W_S(j\omega)S(j\omega)| +
 
 ---
 
-## Deliverables
-
-* `Name_Group.m`: MATLAB script containing the system definitions, iterative loop shaping calculations, and validation plots.
-* `Name_Group.pdf`: A concise document detailing the mathematical rationale behind the chosen controller blocks, poles, and zeros.
